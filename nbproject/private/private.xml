@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/controller/KasController.java</file>
+            <file>file:/D:/TUGASJSP/web/META-INF/context.xml</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/controller/HomeController.java</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/Kas-servlet.xml</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/kas-form.jsp</file>
+            <file>file:/D:/TUGASJSP/src/conf/MANIFEST.MF</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/home.jsp</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/web.xml</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/controller/LoginController.java</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/include.jsp</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/model/Kas.java</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/dao/KasDAOProses.java</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/kas-formedit.jsp</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/model/DatabaseConfig.java</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/model/LoginModel.java</file>
+            <file>file:/D:/TUGASJSP/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/D:/TUGASJSP/web/redirect.jsp</file>
+            <file>file:/D:/TUGASJSP/src/java/kasapp/dao/KasDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
